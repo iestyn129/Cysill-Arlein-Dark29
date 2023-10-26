@@ -1,0 +1,50 @@
+@-moz-document url-prefix("https://www.cysgliad.com/cysill/arlein/") {
+body {
+    background-image: url(https://raw.githubusercontent.com/iestyn129/Cysill-Arlein-Dark29/main/cefndir.29.gif)!important;
+}
+
+.hawlfraint {
+    color: #ffffff!important;
+}
+
+.GHPDCM0D {
+    color: #bbb!important;
+}
+
+.GHPDCM0C {
+    color: #c74545!important;
+}
+
+.hysbysebcysgliad {
+    visibility: hidden!important;
+}
+
+.logocysill {
+    padding-top: 26px!important;
+    padding-left: 62px!important;
+}
+
+.logocysill {
+    --img: url(https://raw.githubusercontent.com/iestyn129/Cysill-Arlein-Dark29/main/logo_cysill_arlein_cy.29.gif)!important;
+}
+
+button {
+    color: #ccc!important;
+    background-color: #222!important;
+    border-color: #333!important;
+}
+
+A:hover {
+    color: #bb8282!important;
+}
+
+::selection {
+    background: #e05f5f;
+    color: #000;
+}
+
+.GHPDCM0A {
+    background-color: #c74545!important;
+    color: #000!important;
+}
+}
