@@ -1,4 +1,4 @@
-# Cysill-Arlein Dark29
+# Cysill Ar-lein Dark29
 A dark theme for [Cysill Ar-lein](https://www.cysgliad.com/cysill/arlein/)
 
 **It is unfinished as of now**
